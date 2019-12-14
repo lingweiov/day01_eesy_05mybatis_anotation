@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+
+
+
+ <mapper namespace="com.ithaima.dao.IUserDao">
+
+<select id="findAll" resultType="com.ithaima.domain.User">
+    select * from user
+</select>
+
+</mapper>

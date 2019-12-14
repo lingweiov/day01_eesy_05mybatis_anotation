@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact name="day01_eesy_05mybatis_anotation:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/day01_eesy_05mybatis_anotation_jar</output-path>
+    <root id="root">
+      <element id="archive" name="day01_eesy_05mybatis_anotation.jar">
+        <element id="module-output" name="day01_eesy_05mybatis_anotation" />
+      </element>
+      <element id="library" level="project" name="Maven: jaxen:jaxen:1.1.6" />
+      <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.6" />
+      <element id="library" level="project" name="Maven: dom4j:dom4j:1.6.1" />
+      <element id="library" level="project" name="Maven: log4j:log4j:1.2.12" />
+      <element id="library" level="project" name="Maven: xml-apis:xml-apis:1.0.b2" />
+    </root>
+  </artifact>
+</component>
